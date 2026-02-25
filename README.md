@@ -4,7 +4,7 @@ Hey there! I'm **Cristian Campos**.
 
 ![Hours Coding](https://hours-counter.warriorsapp.workers.dev)
 
-🤔 Want to know how I calculated this and where I spend the rest of my time? [camposcristian.com](https://camposcristian.com)
+<!-- 🤔 Want to know how I calculated this and where I spend the rest of my time? [camposcristian.com](https://camposcristian.com) -->
 
 ## 📊 Top Languages
 
